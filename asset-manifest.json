@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/miwago-contact/static/css/main.c88170b9.css",
-    "main.js": "/miwago-contact/static/js/main.a6d54ce2.js",
+    "main.js": "/miwago-contact/static/js/main.47920dde.js",
     "static/js/453.5b03ae70.chunk.js": "/miwago-contact/static/js/453.5b03ae70.chunk.js",
     "static/media/icon.png": "/miwago-contact/static/media/icon.cb612cfa0a72236293b8.png",
     "index.html": "/miwago-contact/index.html",
     "main.c88170b9.css.map": "/miwago-contact/static/css/main.c88170b9.css.map",
-    "main.a6d54ce2.js.map": "/miwago-contact/static/js/main.a6d54ce2.js.map",
+    "main.47920dde.js.map": "/miwago-contact/static/js/main.47920dde.js.map",
     "453.5b03ae70.chunk.js.map": "/miwago-contact/static/js/453.5b03ae70.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c88170b9.css",
-    "static/js/main.a6d54ce2.js"
+    "static/js/main.47920dde.js"
   ]
 }
