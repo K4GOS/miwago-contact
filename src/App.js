@@ -40,7 +40,7 @@ function App() {
               textDecoration: "underline",
               color: "white",
             }}
-            href="contactmiwago@gmail.com"
+            href="mailto: contactmiwago@gmail.com"
           >
             contactmiwago@gmail.com
           </a>{" "}
